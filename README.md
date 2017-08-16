@@ -1,3 +1,3 @@
-# adamosoftware.github.io
+# Adam O'Neil
 
-Hello World
+Thanks for checking out my page.
